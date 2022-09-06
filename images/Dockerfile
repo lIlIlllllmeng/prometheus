@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.9.7
+FROM quay.io/brancz/kube-rbac-proxy:v0.8.0
