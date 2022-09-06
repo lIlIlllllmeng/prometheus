@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v1.1.1
+FROM quay.io/coreos/kube-state-metrics:v1.9.7
